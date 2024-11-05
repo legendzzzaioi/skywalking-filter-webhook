@@ -1,0 +1,15 @@
+server:
+  port: 8000
+
+keywords:
+  include:
+    - "xxxx"
+    - "xx-xx"
+    - "xx-xxxxxxxxx"
+  exclude:
+    - "xxxxxxxxxx"
+    - "xxxxxx"
+
+webhook:
+  skywalking:
+    url: "https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
